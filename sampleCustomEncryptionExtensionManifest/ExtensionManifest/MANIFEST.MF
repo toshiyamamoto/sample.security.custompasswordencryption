@@ -1,0 +1,2 @@
+Require-Bundle: sampleCustomEncryption; version="[1,1.0.100)"; location="usr/extension/lib"
+IBM-ImplementationClass: net.wasdev.sample.cpe.CustomEncryptionImpl
